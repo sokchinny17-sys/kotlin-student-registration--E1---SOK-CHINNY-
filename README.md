@@ -22,7 +22,7 @@ View all students in a specific course
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/kotlin-student-registration-[class]-[your-name].git
+git clone https://github.com/sokchinny17-sys/kotlin-student-registration--E1---SOK-CHINNY-.git
 cd kotlin-student-registration-[class]-[your-name]
 
 
